@@ -136,7 +136,7 @@ export const SOCIAL_LINKS = {
   github: 'https://github.com/Nandhangit',
   linkedin: 'https://www.linkedin.com/in/nandhans/',
   email: 'mailto:snandhan825@gmail.com',
-  resume: 'https://drive.google.com/uc?export=download&id=1ienIWDWmz9h2_QMwsfDtHsuexbbXPjJc'
+  resume: '/resume/Nandhan_Resume.pdf'
 
 
 };

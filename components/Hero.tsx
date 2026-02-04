@@ -66,13 +66,22 @@ const Hero: React.FC = () => {
             </a>
             <a 
               href={SOCIAL_LINKS.resume} 
-              download="Sudharshan_J_S_Resume.pdf"
+              download="Nandhan_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3.5 rounded-xl glass text-white font-semibold flex items-center gap-2 border border-white/10 hover:bg-white/10 transition-all duration-300 active:scale-95"
             >
               <Download className="w-4 h-4" /> Download Resume
             </a>
+
+            {/* <a
+                href={SOCIAL_LINKS.resume}
+                download="Nandhan_Resume.pdf"
+                className="btn-primary"
+                >
+                 Download Resume
+            </a> */}
+
           </div>
 
           <div className="flex items-center gap-6 pt-4">
