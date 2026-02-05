@@ -61,7 +61,7 @@ const Certifications: React.FC = () => {
               rel="noopener noreferrer" 
               className="w-full py-3.5 rounded-xl bg-gradient-accent text-white font-bold text-sm flex items-center justify-center gap-2 transition-transform active:scale-95 shadow-lg shadow-purple-500/10"
             >
-              <ExternalLink className="w-4 h-4" /> View Verification
+               View Verification
             </a>
           </div>
         ))}

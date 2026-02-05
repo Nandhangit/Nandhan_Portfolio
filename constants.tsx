@@ -78,7 +78,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'Guvi / Google',
     date: 'Aug 2023',
     skills: ['Python', 'Django', 'Flask'],
-    link: 'https://drive.google.com/file/d/1aaoYsNMG0Bdqnz12M_LzJ4TdvOr3Bdah/view',
+    link: '/certifications/Python_Certification.jpg',
     type: 'Simulation'
   },
   {
@@ -86,7 +86,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'Hacker Rank',
     date: 'Nov 2025',
     skills: ['SQL', 'MySQL'],
-    link: "https://drive.google.com/file/d/1NXgPofOoEyTtsv3Ieqi9CQuxwscLZ7wI/preview",
+    link: "/certifications/Sql_Certification.jpg",
     type: 'Simulation'
   },
   {
@@ -94,7 +94,7 @@ export const CERTIFICATIONS: Certification[] = [
     provider: 'AWS',
     date: 'Jun 2025',
     skills: ['Cloud Computing Concepts', 'Scalable System Architecture', 'Web Hosting Architecture'],
-    link: 'https://drive.google.com/file/d/1GMm4iz7G72Rij7dF8Im3GLvQeA1plubX/view',
+    link: '/certifications/Aws_Certification.jpg',
     type: 'Course'
   }
 ];

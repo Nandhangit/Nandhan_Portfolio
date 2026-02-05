@@ -74,14 +74,7 @@ const Hero: React.FC = () => {
               <Download className="w-4 h-4" /> Download Resume
             </a>
 
-            {/* <a
-                href={SOCIAL_LINKS.resume}
-                download="Nandhan_Resume.pdf"
-                className="btn-primary"
-                >
-                 Download Resume
-            </a> */}
-
+          
           </div>
 
           <div className="flex items-center gap-6 pt-4">

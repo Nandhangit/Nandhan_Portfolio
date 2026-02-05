@@ -15,12 +15,6 @@ const App: React.FC = () => {
     // <div className="min-h-screen w-full overflow-x-hidden bg-[#0f0720] selection:bg-purple-500/30">
        <div className="min-h-screen w-full overflow-x-hidden bg-[#101A14] text-gray-100 selection:bg-orange-500/20">
  
-
-
-
-
-
-
       {/* 🌌 BACKGROUND GLOW — DESKTOP ONLY */}
       <div className="fixed inset-0 -z-10 pointer-events-none hidden lg:block">
       {/* Warm Green Orange Glow */}
@@ -46,12 +40,8 @@ const App: React.FC = () => {
     animate-pulse
   "
 />
-
-
       </div> 
         
-      
-
       <Navbar />
 
       {/*  CONTENT — SAFE ON MOBILE */}
